@@ -1,0 +1,16 @@
+program
+holidays
+banana
+elephant
+giraffe
+umbrella
+desktop
+chicken
+keyboard
+football
+guitar
+library
+happiness
+suitcase
+jacket
+panther
