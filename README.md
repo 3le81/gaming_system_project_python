@@ -75,7 +75,7 @@ Follow these steps to install and run the PlayMaster gaming system:
 1. **Clone the Repository**: Clone the PlayMaster repository to your local machine using Git:
 
 ```bash
-   git clone https://github.com/yourusername/playmaster.git
+   git clone https://github.com/3le81/gaming_system_project_python.git
 ```
 
 2. **Navigate to the Directory**: Open your terminal or command prompt, and navigate into the playmaster directory:
